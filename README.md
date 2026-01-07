@@ -88,7 +88,7 @@ CLIENT_URL=http://localhost:5173
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/knox-app.git
+git clone https://https://github.com/proffessor688-dev/KNOX.git/knox-app.git
 cd knox-app
 ```
 
@@ -132,7 +132,7 @@ npm run dev
 
 ### Characters
 
-* `POST /api/characters/create`
+* `POST /api/characters/add`
 * `GET /api/characters`
 * `GET /api/characters/:id`
 * `PUT /api/characters/:id`
@@ -188,3 +188,4 @@ B.Tech Student | Full‑Stack Developer
 ---
 
 ⭐ If you like KNOX, don’t forget to star the repository!
+
